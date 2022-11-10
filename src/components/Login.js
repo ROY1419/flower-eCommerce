@@ -26,7 +26,7 @@ const Login = () => {
           title: "Wellcome!!👌",
           text: "Enter a new World!!",
         });
-        navigate("/profile");
+        navigate("/home");
         const data = await response.json();
         sessionStorage.setItem("user", JSON.stringify(data));
       } else {

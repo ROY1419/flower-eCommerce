@@ -23,10 +23,10 @@ const Header = () => {
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
               <NavLink className="nav-link active" aria-current="page" to='/home'>
-                VIDEO
+                Flower
               </NavLink>
               <a class="nav-link" href="/register">
-                ViewVlogs
+                
               </a>
               <a class="nav-link" href="/signup">
                 Signup

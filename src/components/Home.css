@@ -1,3 +1,6 @@
 .carousel-inner{
     height: 70vh;
 }
+.card-content{
+    height: 60vh;
+}
